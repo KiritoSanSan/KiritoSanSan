@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- <a href="https://t.me/zyzz" target="_blank">
+ <a href="https://t.me/zirko_one" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
  </a>
 </p>
